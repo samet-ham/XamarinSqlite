@@ -63,10 +63,6 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="ConnectionHelper\GetiOSConnection.cs" />
-    <Compile Include="CustomRenderers\CustomDatePickerRenderer.cs" />
-    <Compile Include="CustomRenderers\CustomEntryRenderer.cs" />
-    <Compile Include="Helper\DeviceHelper.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
     <None Include="Entitlements.plist" />
